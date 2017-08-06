@@ -11,7 +11,7 @@ Node JS script to scrap latest news from The Times Of India
 * [request] - Request is designed to be the simplest way possible to make http calls.(https://www.npmjs.com/package/request)
 * [Node.js] - evented I/O for the backend 
 * [Express] - fast node.js network app framework 
-* [Express] - A job scheduler for Node. (https://www.npmjs.com/package/cron)
+* [cron] - A job scheduler for Node. (https://www.npmjs.com/package/cron)
 
 ### Installation
 

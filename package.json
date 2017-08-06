@@ -1,0 +1,32 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "Node JS script to scrap latest news from times of india",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "node scrapper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryankanwar/Latest_News_Scrapper.git"
+  },
+  "dependencies": {
+    "node-notifier": "^5.1.2",
+    "cron": "^1.2.1",
+    "express": "^4.15.3",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "keywords": [
+    "cheerio",
+    "express",
+    "notifier",
+    "cron",
+    "request"
+  ],
+  "author": "Aryan Kanwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryankanwar/Latest_News_Scrapper/issues"
+  },
+  "homepage": "https://github.com/aryankanwar/Latest_News_Scrapper#readme"
+}
